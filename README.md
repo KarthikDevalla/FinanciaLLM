@@ -1,4 +1,5 @@
 # FinanciaLLM
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 The FinanciaLLM, a powerful language model designed to assist with financial tasks and inquiries. This project leverages state-of-the-art technologies, including Faiss, Llama2, and LangChain, to provide a comprehensive and efficient solution for finance-related natural language processing.
 
